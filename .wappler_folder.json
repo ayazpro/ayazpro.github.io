@@ -2,5 +2,9 @@
   "home.html": {
     "layoutPage": "",
     "description": "Main page"
+  },
+  "fie.html": {
+    "layoutPage": "",
+    "description": "for portfolio"
   }
 }
