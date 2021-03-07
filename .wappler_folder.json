@@ -6,5 +6,9 @@
   "fie.html": {
     "layoutPage": "",
     "description": "for portfolio"
+  },
+  "index.html": {
+    "layoutPage": "",
+    "description": "The new main"
   }
 }
